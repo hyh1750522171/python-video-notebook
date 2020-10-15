@@ -46,8 +46,6 @@ $ jupyter notebook
 
 ## 参考
 
-- [Enthought Training on Demand](https://training.enthought.com/)
-- [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html#rd)
 - [Scipy.org](http://scipy.org/)
 - [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
 - [High Performance Scientific Computing](http://faculty.washington.edu/rjl/uwhpsc-coursera/index.html)
