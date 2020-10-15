@@ -63,4 +63,4 @@ $ jupyter notebook
 > QQ: 2667004988        
 > vx: hyh2667004988
 
-![QQ群](./code-and-notebook/res/python-QQ群.png)
+![QQ群](./01-python基础/res/python-QQ群.png)
